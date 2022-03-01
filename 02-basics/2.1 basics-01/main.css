@@ -1,0 +1,16 @@
+body {
+  font-family: "Franklin Gothic Medium";
+}
+
+#prod-ov {
+  background-color: brown;
+}
+
+.section-title {
+  color: green;
+}
+
+#prod-ov h1 {
+  color: wheat;
+  font-family: "Anton", sans-serif;
+}
